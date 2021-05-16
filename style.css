@@ -1,6 +1,14 @@
 body{
-background-color: cornsilk;
+margin: 0;
+padding: 0;
+background-image: linear-gradient(to right, #first color, #second color);
 }
-#Heading1{
-color: red; 
+
+.container {
+display: flex;
+align-items: center;
+justify-content: center;
+background-image: linear-gradient (to right, #first color, #second color);
+
 }
+
