@@ -1,14 +1,25 @@
 body{
 margin: 0;
 padding: 0;
-background-image: linear-gradient(to right, #first color, #second color);
+background-image: linear-gradient(to right, #b600ff, #fabef7);
+}
+
+#Play{
+  margin-top: 20px;
 }
 
 .container {
-display: flex;
 align-items: center;
 justify-content: center;
-background-image: linear-gradient (to right, #first color, #second color);
+background-image: linear-gradient(to right, #00b2de, #ffffff);
+height: 400px;
+width: 100;
+}
 
+#game{
+  display: none;
+}
+.ques1{
+  color: red;
 }
 
